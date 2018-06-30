@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Edward G. Huang"
   avatar           : "git.jpg"
-  bio              : "Undergraduate research fellow at the Santa Fe Institute. Mathematics major at UC Berkeley."
-  location         : "New Mexico"
+  bio              : "Research fellow at the Santa Fe Institute. Undergraduate mathematics major at UC Berkeley."
+  location         : "New Mexico, USA"
   employer         : "Santa Fe Institute"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://linkedin.com/in/eghuang"
+  linkedin         : "eghuang"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
