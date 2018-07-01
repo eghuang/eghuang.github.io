@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+[PDF Link](https://eghuang.github.io/files/cv.pdf)  
+<!-- Education
 ======
 * B.A. in Applied Mathematics, University of California, Berkeley, 2019
 
 Work experience
-======
+====== -->
 <!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -25,8 +26,8 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
 
-Skills
-======
+<!-- Skills
+====== -->
 <!-- * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -34,14 +35,14 @@ Skills
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
-======
+<!-- Publications
+====== -->
   <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Talks
-======
+<!-- Talks
+====== -->
   <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
@@ -52,6 +53,6 @@ Talks
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Service and leadership
-======
+<!-- Service and leadership
+====== -->
 <!-- * Currently signed in to 43 different slack teams -->
