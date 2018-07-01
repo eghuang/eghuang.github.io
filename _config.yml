@@ -81,10 +81,10 @@ author:
   name             : "Edward G. Huang"
   avatar           : "git.jpg"
   bio              : "Research fellow at the Santa Fe Institute. Undergraduate mathematics major at UC Berkeley."
-  location         : "New Mexico, USA"
+  location         :
   employer         : "Santa Fe Institute"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "eghuang@berkeley.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "_eghuang"
   vine             :
   weibo            :
   xing             :

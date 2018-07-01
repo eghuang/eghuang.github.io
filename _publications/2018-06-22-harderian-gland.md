@@ -11,7 +11,7 @@ radiation tumorigenesis induced by mixed beams whose individual components are n
 ---
 Concerns synergy theory for analyzing ionizing radiation tumorigenesis outside low-earth orbit.
 
-[Paper drafts and materials here](http://github.com/sachsURAP/NASAmouseHG)
+[Paper draft PDF and materials](http://github.com/sachsURAP/NASAmouseHG)
 
 Recommended citation: Huang EG, Lin Y, Ebert M, Ham DW, Zhang CY, & Sachs RK. (2018). Synergy theory for mouse Harderian gland
 radiation tumorigenesis induced by mixed beams whose individual components are nuclei in the galactic cosmic ray spectrum. Manuscript submitted for publication.

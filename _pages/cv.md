@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 [PDF Link](https://eghuang.github.io/files/cv.pdf)  
 <!-- Education
