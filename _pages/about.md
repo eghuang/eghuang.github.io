@@ -14,4 +14,4 @@ Previously, Edward worked as a researcher in the fields of ecology, biophysics, 
 
 As a senior undergraduate at UC Berkeley, Edward studies applied mathematics with a concentration in computer science. His completed coursework and work experience has covered deep learning, data science, project management, risk analysis, and technical writing.
 
-Outside of academics, he is a outdoor brand ambassador for the company Klättermusen. He was also formerly a member of the Cal Boxing Team and the Vice President of the Cal Hiking and Outdoor Society.
+Outside of academics, he is a brand ambassador for the outdoor company Klättermusen. He was formerly a member of the Cal Boxing Team and the Vice President of the Cal Hiking and Outdoor Society.

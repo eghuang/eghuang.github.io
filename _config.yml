@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Edward G. Huang"
 title_separator          : "-"
-name                     : &name "Edward G. Huang"
+name                     : &name "Edward Greg Huang"
 description              : &description "Mathematics Student at UC Berkeley"
 url                      : https://eghuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Edward G. Huang"
-  avatar           : "git.jpg"
+  avatar           : "headshot.jpeg"
   bio              : "Student Advisor to the UC Regents. Research fellow at the Santa Fe Institute. Applied mathematics major at UC Berkeley."
   location         :
   employer         : "Santa Fe Institute"
