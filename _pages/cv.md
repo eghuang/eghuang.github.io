@@ -8,7 +8,7 @@ redirect_from:
 ---
 <!-- {% include base_path %} -->
 
-[PDF Link](https://github.com/eghuang/cv/cv.pdf)  
+[PDF Link](https://github.com/eghuang/cv/blob/master/cv.pdf)  
 <!-- Education
 ======
 * B.A. in Applied Mathematics, University of California, Berkeley, 2019
