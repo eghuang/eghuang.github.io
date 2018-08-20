@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,4 +8,4 @@ redirect_from:
 ---
 <!-- {% include base_path %} -->
 
-[PDF Link](https://github.com/eghuang/cv/blob/master/cv.pdf)  
+[PDF](http://nbviewer.jupyter.org/github/eghuang/cv/blob/master/cv.pdf)  
