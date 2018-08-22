@@ -11,7 +11,7 @@ title                    : "Edward G. Huang"
 title_separator          : "-"
 name                     : &name "Edward Greg Huang"
 description              : &description "Mathematics Student at UC Berkeley"
-url                      : https://eghuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.eghuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eghuang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ author:
   name             : "Edward G. Huang"
   avatar           : "headshot.jpeg"
   bio              : "Student Advisor to the UC Regents. Research fellow at the Santa Fe Institute. Applied mathematics major at UC Berkeley."
-  location         :
+  location         : "University of California, Berkeley"
   employer         : "Santa Fe Institute"
   googlescholar    : "https://scholar.google.com/citations?user=DlUurWMAAAAJ"
   email            : "eghuang@berkeley.edu"
@@ -90,7 +90,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "UCStudentAdvisor"
   foursquare       :
   github           : "eghuang"
   google_plus      :
