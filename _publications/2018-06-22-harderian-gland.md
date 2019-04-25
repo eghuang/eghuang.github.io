@@ -1,4 +1,4 @@
----
+<!---
 title: "Synergy theory for murine Harderian gland tumors after irradiation by mixtures of high-energy ionized atomic nuclei"
 collection: publications
 permalink: /publication/2018-06-22-harderian-gland

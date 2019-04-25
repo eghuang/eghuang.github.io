@@ -1,4 +1,4 @@
----
+<!---
 title: "The effect of DNA degradation bias in passive sampling devices on metabarcoding studies of arthropod communities and their associated microbiota"
 collection: publications
 permalink: /publication/2018-01-05-dna-degradation

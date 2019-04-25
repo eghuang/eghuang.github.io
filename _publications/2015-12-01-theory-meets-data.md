@@ -1,4 +1,4 @@
----
+<!---
 title: "Theory Meets Data: A Data Scientist’s Handbook to Statistics"
 collection: publications
 permalink: /publication/2015-12-01-theory-meets-data
