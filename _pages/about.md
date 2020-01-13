@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Edward serves as the current appointed UC Student Advisor, a nonvoting member position on the Board of Regents of the University of California. He represents over 250,000 students and many additional stakeholders of the University as the sole undergraduate on the Board.
+I am a new graduate in applied mathematics from the University of California, Berkeley. 
 
-Previously, he worked as a researcher in the fields of ecology, biophysics, computer science, and mathematics. Most recently, he worked on Turing machine theory and Kolmogorov complexity as an NSF REU research fellow at the Santa Fe Institute. He frequently collaborates with the NASA-funded Sachs research group in the Department of Mathematics and with EvoLab in the Department of Environmental Science at UC Berkeley.
+I most recently served as the UC Student Advisor, a nonvoting member of the Regents of the University of California. During my term, I represented over 250,000 students and additional stakeholders of the University as the sole undergraduate on the Board.
 
-As a senior undergraduate student at UC Berkeley, Edward studies applied mathematics with a concentration in computer science. His completed coursework and work experience has covered algorithms, deep learning, data science, project management, and technical writing. He will be seeking full-time positions in quantitative research after graduating May 2019.
+Since 2017, I've worked on radiation biology with the Sachs research group at UC Berkeley. During the 2018 - 2019 academic year, I collaborated with NASA Ames on a deep learning project for satellite imagery. In summer 2018, I worked on Turing machine theory and Kolmogorov complexity as an REU at the Santa Fe Institute. From 2015 to 2017, I worked on evolutionary ecology with with EvoLab in the Department of ESPM at UC Berkeley.
 
-Outside of academics, he is a brand ambassador for the outdoor company Klättermusen. He was formerly a member of the Cal Boxing Team and the Vice President of the Cal Hiking and Outdoor Society.
+Outside of academics, I was formerly the Acting President of the Cal Hiking and Outdoor Society, a member of Cal Boxing, and a brand ambassador for the outdoor company Klättermusen.
