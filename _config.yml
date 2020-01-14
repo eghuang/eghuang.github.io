@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Edward G. Huang"
 title_separator          : "-"
 name                     : &name "Edward Greg Huang"
-description              : &description "Mathematics Student at UC Berkeley"
+description              : &description "UC Berkeley mathematics graduate"
 url                      : https://eghuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eghuang.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Edward G. Huang"
   avatar           : "headshot.jpeg"
-  bio              : "Student Advisor to the UC Regents. Applied mathematics major at UC Berkeley."
-  location         :
-  employer         : "Santa Fe Institute"
+  bio              : "New graduate in applied mathematics from UC Berkeley"
+  location         : "California, USA"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=DlUurWMAAAAJ"
-  email            : "eghuang@berkeley.edu"
+  email            : "edwardgreghuang@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,13 +104,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "_eghuang"
+  twitter          : "EdwardGHuang"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  
 
 # Reading Files
 include:
