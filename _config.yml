@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Edward G. Huang"
 title_separator          : "-"
 name                     : &name "Edward Greg Huang"
-description              : &description "UC Berkeley mathematics graduate"
+description              : &description "Software Engineer at Apple"
 url                      : https://eghuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eghuang.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Edward G. Huang"
   avatar           : "headshot.jpeg"
-  bio              : "New graduate in applied mathematics from UC Berkeley"
+  bio              : "Software Engineer at Apple"
   location         : "California, USA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=DlUurWMAAAAJ"
-  email            : "edwardgreghuang@gmail.com"
+  email            : "edwardghg@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
