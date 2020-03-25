@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a software engineer working on artificial intelligence and machine learning at Apple. In 2019, I recieved my B.A. in applied mathematics from UC Berkeley.
+I'm a software engineer working on artificial intelligence and machine learning at Apple. In 2019, I recieved my BA in applied mathematics from UC Berkeley.
 
 I was previously the UC Student Advisor, a nonvoting member of the Regents of the University of California. During my term, I served over 270,000 students and additional stakeholders of the University as the undergraduate representative on the Board.
 
