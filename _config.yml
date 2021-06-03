@@ -4,14 +4,14 @@ title: tufte-css-jekyll
 # Whether the header (with large title and subtitle) should be displayed
 header: true
 subtitle: A Jekyll theme based on tufte-css
-author: Stephan Druskat
-email: mail [at] sdruskat [dot]
+author: Edward Greg Huang
+email: edwardghg [at] gmail [dot] com
 description: A Jekyll theme based on tufte-css
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
 permalink: /articles/:categories/:year/:month/:day/:title.html
-timezone: Europe/Berlin
+timezone: Pacific
 excerpt_separator: <!--more-->
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'DeployToGithub.Rakefile', 'README.md']
 post:
