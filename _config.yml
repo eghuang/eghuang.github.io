@@ -1,9 +1,9 @@
 # Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
 baseurl: /tufte-css-jekyll
-title: tufte-css-jekyll
+title: Edward Greg Huang
 # Whether the header (with large title and subtitle) should be displayed
 header: true
-subtitle: A Jekyll theme based on tufte-css
+subtitle: # <subtitle in italics>
 author: Edward Greg Huang
 email: edwardghg [at] gmail [dot] com
 description: A Jekyll theme based on tufte-css
