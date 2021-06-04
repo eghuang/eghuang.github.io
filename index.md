@@ -1,30 +1,25 @@
 ---
-layout: full-width
-title: About
+layout: page
 weight: 1
 ---
 
-I'm a software engineer working on artificial intelligence and machine learning at Apple. In 2019, I recieved my BA in applied mathematics from UC Berkeley.
+## About 
+I work on artificial intelligence research and development at Apple with a focus on natural language processing (NLP). In 2019, I took a degree in applied mathematics from UC Berkeley.
 
-I was previously the UC Student Advisor, a nonvoting member of the Regents of the University of California. During my term, I served over 270,000 students and additional stakeholders as the undergraduate representative on the Board.  
+I previously served as the UC Student Advisor, a nonvoting member of the Regents of the University of California. During my term, I represented over 270,000 students and other stakeholders on the Board.  
 
-My research interests have led me to work with NASA, the Santa Fe Institute and UC Berkeley on topics in biology, mathematics, and computer science. More details are available on my Google Scholar and GitHub pages.  
+My research interests have led me to work with NASA, the Santa Fe Institute and UC Berkeley on topics in biology, mathematics, and computer science. My ongoing projects are focused on multi-domain data selection in NLP and synergy theory in radiobiology.
 
 ## Links
-[Email: edwardghg@gmail.com](mailto:edwardghg@gmail.com)  
-[GitHub: eghuang](https://github.com/eghuang)  
+[Resume](http://nbviewer.jupyter.org/github/eghuang/cv/blob/master/resume.pdf)  
+[Email](mailto:edwardghg@gmail.com)  
+[GitHub](https://github.com/eghuang)  
+[LinkedIn](https://www.linkedin.com/in/eghuang)  
 [Google Scholar: DlUurWMAAAAJ](https://scholar.google.com/citations?user=DlUurWMAAAAJ)  
 [ORCID: 0000-0001-9306-9581](https://orcid.org/0000-0001-9306-9581)  
-[LinkedIn](https://www.linkedin.com/in/eghuang)  
-[Facebook](https://www.facebook.com/UCStudentAdvisor)  
+<!-- [Facebook](https://www.facebook.com/UCStudentAdvisor)  
 [Twitter](https://twitter.com/EdwardGHuang)   
-[Instagram](https://instagram.com/EdwardGHuang)   
-
-## Work history  
-[Resume](http://nbviewer.jupyter.org/github/eghuang/cv/blob/master/cv.pdf)
-
-
-
+[Instagram](https://instagram.com/EdwardGHuang) -->
 
 ## Research
 
