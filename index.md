@@ -24,15 +24,15 @@ My research interests have led me to work with NASA, the Santa Fe Institute and 
 ## Research
 
 Huang EG & Sachs RK. (2020) Commentary on ”Simulating galactic cosmic ray effects: Synergy modeling of murine tumor prevalence after exposure to two one-ion beams in rapid sequence”. Life Sciences in Space Research.  
-[https://doi.org/10.1016/j.lssr.2020.03.007](https://doi.org/10.1016/j.lssr.2020.03.007)  
+[doi:10.1016/j.lssr.2020.03.007](https://doi.org/10.1016/j.lssr.2020.03.007)  
 
 Huang EG, Yang RY, Xie LY, Chang PY, Yao G, Zhang B, Ham DW, Lin Y, Blakely EA, & Sachs RK. (2020) Simulating galactic cosmic ray effects: Synergy modeling of murine tumor prevalence after exposure to two one-ion beams in rapid sequence. Life Sciences in Space Research.  
-[https://doi.org/10.1016/j.lssr.2020.01.001](https://doi.org/10.1016/j.lssr.2020.01.001)
+[doi:10.1016/j.lssr.2020.01.001](https://doi.org/10.1016/j.lssr.2020.01.001)
 
 Huang EG, Lin Y, Ebert M, Ham DW, Zhang CY, & Sachs RK. (2019) Synergy theory for murine Harderian gland tumours after irradiation by mixtures of high-energy ionized atomic nuclei. Radiation and Environmental Biophysics. 58(2): 151-166.
-[https://doi.org/10.1007/s00411-018-00774-x](https://doi.org/10.1007/s00411-018-00774-x)
+[doi:10.1007/s00411-018-00774-x](https://doi.org/10.1007/s00411-018-00774-x)
 
 Krehenwinkel H, Fong M, Kennedy S, Huang EG, Suzuki N, Cayetano L, & Gillespie RG. (2018) The effect of DNA degradation bias in passive sampling devices on metabarcoding studies of arthropod communities and their associated microbiota. PLoS ONE 13(1): e0189188.  
-[https://doi.org/10.1371/journal.pone.0189188](https://doi.org/10.1371/journal.pone.0189188)
+[doi:10.1371/journal.pone.0189188](https://doi.org/10.1371/journal.pone.0189188)
 
 
